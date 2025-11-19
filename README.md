@@ -4,8 +4,7 @@
 
 ## 2. Executive Summary
 
--This project presents a dynamic, interactive Excel dashboard built to analyze Vrinda Store’s performance for the year 2022.
--The dashboard converts raw data into clear visual insights, enabling stakeholders to understand customer behavior, sales trends, top-performing regions, and order statuses.
+-This project presents a dynamic, interactive Excel dashboard built to analyze Vrinda Store’s performance for the year 2022. The dashboard converts raw data into clear visual insights, enabling stakeholders to understand customer behavior, sales trends, top-performing regions, and order statuses.
 
  ### Impact:
 
